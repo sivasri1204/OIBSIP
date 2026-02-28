@@ -1,37 +1,20 @@
-Task 1-  Number Guessing Game (Java)
+#  OIBSIP Internship Projects
 
-A console-based Number Guessing Game developed in Java as part of my internship practice.
+This repository contains all the tasks completed as part of the Oasis Infobyte Internship Program (OIBSIP).
 
-The player must guess a randomly generated number between 1 and 100 within 5 attempts.
- Features
 
-- Random number generation (1–100)
-- Maximum 5 attempts per round
-- Hint system (Too High / Too Low)
-- Scoring system based on attempts
-- Multiple rounds support
-- Running total score display
+##  Task 1 – Number Guessing Game
 
- Technologies Used
+A console-based Java game where the player has 5 attempts to guess a randomly generated number between 1 and 100.
 
-- Java
-- OOP concepts
-- Loops & Conditional statements
-- Random class
-- Scanner class
+### Features:
+- Random number generation
+- 5 attempt limit
+- Too High / Too Low hints
+- Score system
+- Multiple rounds
 
- How to Run
+ Folder: `Task1_Number_Guessing_Game`
 
-1. Compile the program.
-2. Run the program.
 
-   
-  Game Rules
-
- You have only 5 chances to guess the correct number.
- Fewer attempts = Higher score.
- You can continue playing multiple rounds.
-
-   Author
-
-Developed by Sivasri K
+One More task will be added soon.

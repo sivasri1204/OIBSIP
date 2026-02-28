@@ -15,6 +15,12 @@ A console-based Java game where the player has 5 attempts to guess a randomly ge
 - Multiple rounds
 
  Folder: `Task1_Number_Guessing_Game`
+ ## 🎥 Demo Video
+
+Here’s a working demo of the Number Guessing Game:
+
+🎬 Watch the video here:  
+https://drive.google.com/file/d/1XOJZZMaeRquUoPgcqBhTDu0AVoboJuVG/view?usp=sharing
 
 
 One More task will be added soon.
